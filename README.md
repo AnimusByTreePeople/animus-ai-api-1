@@ -6,11 +6,9 @@ tags:
   - python
 ---
 
-# FastAPI Example
+# FastAPI ANIMUS
 
-This example starts up a [FastAPI](https://fastapi.tiangolo.com/) server.
 
-[![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-NvLj4?referralCode=milo)
 
 ## ✨ Features
 
